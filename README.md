@@ -1,2 +1,3 @@
 # CODSOFT
 Spam sms detection,Credit card fraud detection, Bank Customer Churn Prediction all this ML- based projects are Covered... 
+Since the credit Fraud is to big so I am giving the kaggle link for it -https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
